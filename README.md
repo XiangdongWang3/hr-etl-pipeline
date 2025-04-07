@@ -1,6 +1,6 @@
 # HR ETL Pipeline Project
 
-This repository contains the ETL (Extract, Transform, Load) process for the HR Database Project, which aims to build a normalized relational database supporting workforce analytics and employee attrition insights.
+This repository contains the ETL (Extract, Transform, Load) process for the HR database project, and its purpose is to build a normalized relational database that supports workforce analysis and employee attrition insights for NYTech.co, a fictional company facing employee attrition issues.
 
 ## Project Overview
 
