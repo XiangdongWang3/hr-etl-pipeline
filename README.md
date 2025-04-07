@@ -26,5 +26,5 @@ We used Python for the ETL pipeline and loaded the cleaned data into **PostgreSQ
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
