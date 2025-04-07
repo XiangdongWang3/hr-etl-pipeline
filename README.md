@@ -21,8 +21,8 @@ We used Python for the ETL pipeline and loaded the cleaned data into **PostgreSQ
 ## Technologies Used
 
 - **Python 3.11.7**
-- **Environment .conda**
-- **Pandas** for data wrangling
+- **Environment conda**
+- **Pandas** for data transforming
 - **SQLAlchemy / psycopg2** for PostgreSQL connection
 - **PostgreSQL (pgAdmin4)** for relational database
 - **GitHub** for version control
