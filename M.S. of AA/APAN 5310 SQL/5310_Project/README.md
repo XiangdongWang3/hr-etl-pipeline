@@ -14,7 +14,7 @@ Our team designed a PostgreSQL-based HR database in full compliance with the 3rd
 
 We used Python for the ETL pipeline and loaded the cleaned data into **PostgreSQL (pgAdmin4)**. The final database supports structured analysis through **SQL queries** and **Metabase dashboards**.
 
-*Specific data information can be found in the kaggle **IBM Employee Dataset:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+*Specific data information can be found in the kaggle web **IBM Employee Dataset:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ---
 
