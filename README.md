@@ -36,5 +36,3 @@ We used Python for the ETL pipeline and loaded the cleaned data into **PostgreSQ
 - Loading: We use the sqlalchemy package to interact with pgAdmin4 to create the table schema and use its accompanying ‘to.sql’ function to load the data. The reason is that our dataset is highly structured, and PostgreSQL is ideal for storing this data and performing subsequent queries.
 
 
-## Project Structure
-
