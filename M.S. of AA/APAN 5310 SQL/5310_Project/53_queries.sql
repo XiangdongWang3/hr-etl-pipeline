@@ -131,6 +131,7 @@ WHERE w.years_at_company >= 5 AND w.years_since_last_promotion >= 5
 ORDER BY w.years_since_last_promotion DESC;
 
 
+
 -- D11: What is the relationship between business trip frequency and turnover rate?
 SELECT 
     wa.business_travel,
