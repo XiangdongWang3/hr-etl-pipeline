@@ -1,9 +1,5 @@
 
 
-
-
-
-
 -- D1: What has been the employee turnover situation of the company in the past five years?
 SELECT 
   attrition AS status, 
@@ -147,6 +143,8 @@ FROM attrition_status a
 JOIN work_assignments wa ON a.employee_number = wa.employee_number
 GROUP BY wa.business_travel
 ORDER BY attrition_rate DESC;
+
+
 
 
 
