@@ -1,3 +1,4 @@
 .DS_Store
 __pycache__
 .env
+5400_Project/parking_violations_latest.csv
