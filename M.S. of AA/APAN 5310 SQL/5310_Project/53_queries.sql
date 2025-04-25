@@ -132,6 +132,7 @@ ORDER BY w.years_since_last_promotion DESC;
 
 
 -- D11: What is the relationship between business trip frequency and turnover rate?
+
 SELECT 
     wa.business_travel,
     COUNT(*) AS total_employees,
